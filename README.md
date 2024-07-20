@@ -24,7 +24,3 @@ flet run app.py
 
 
 
-
-```
-flet run app.py
-```
